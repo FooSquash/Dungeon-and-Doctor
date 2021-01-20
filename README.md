@@ -13,7 +13,7 @@ This game was created in a group of 3 as a final project for a game class. Our o
 # Gameplay
 Dungeon and Doctor features many elements that a real first-person shooter game would have. Some of these features include locked vertical camera movement, limited ammo with the ability to obtain more ammo in the form of pickups scattered around the level, switching to a secondary melee weapon, and a crosshair for aiming.
 
-<img src=./images/image1.png>
+<img src=./image1.png>
 
 Here you can see various elements during a boss fight. There is a crosshair at the center of the screen that changes color from white to red when aiming at an enemy. The hand sanitizer on the screen represents the player holding their ranged weapon in front of them. Pressing left click spawns a glob of sanitizer that travels in an arc to the enemy and explodes on contact, which is what is happening in the picture. At the bottom left of the screen are two stat bars, a health bar and a disease bar. The health bar determines when the player dies, and goes down when attacked by an enemy. The disease bar determines if the player takes damage over time, and goes down when standing next to an enemy virus. In the top right are the two weapons to alternate between using the scroll wheel. The hand sanitizer also shows its current ammo (18 in the picture) beneath the icon.
 
