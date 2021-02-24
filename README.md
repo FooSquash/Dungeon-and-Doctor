@@ -8,7 +8,7 @@ Dungeon and Doctor contains 4 levels of increasing difficulty and takes place in
 Following the unfortunate theme of 2020, the world has been taken over by evil life-size viruses. The player happens to be the only doctor in the world who is willing to risk their life to defeat these viruses and save the world. The doctor, along with a nurse, arrive at a castle of viruses, said to be the original source of the evil. Defeating the viruses here should stop more from spawning and save the world.
 
 # Game Idea
-This game was created in a group of 3 as a final project for a game class. Our objective was to make any sort of game in Unity, following certain requirements like having levels, enemies, stat bars, collectibles, music, and more. We simply came up with these idea because it was "meta" in 2020.
+This game was created in a group of 3 as a final project for a game class. Our objective was to make any sort of game in Unity, following certain requirements like having levels, enemies, stat bars, collectibles, music, and more. We simply came up with the idea because it was "meta" in 2020.
 
 # Gameplay
 Dungeon and Doctor features many elements that a real first-person shooter game would have. Some of these features include locked vertical camera movement, limited ammo with the ability to obtain more ammo in the form of pickups scattered around the level, switching to a secondary melee weapon, and a crosshair for aiming.
